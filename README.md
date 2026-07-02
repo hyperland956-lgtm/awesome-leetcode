@@ -51,6 +51,7 @@ This repository contains awesome resources to learn Data Structures and Algorith
 - [Linked List In-place Reversal Pattern](https://algomaster.io/learn/dsa/linked-list-in-place-reversal-introduction)
 - [Monotonic Stack Pattern](https://algomaster.io/learn/dsa/monotonic-stack-introduction)
 - [Overlapping Intervals Pattern](https://algomaster.io/learn/dsa/intervals-introduction)
+- [Coding Interview Patterns: A Visual Guide](https://github.com/ExporaCloud/coding-interview-patterns)
 
 ## 📝 Must-Read Leetcode Articles
 - [Sliding Window Template](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template/)
