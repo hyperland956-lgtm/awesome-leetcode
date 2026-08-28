@@ -92,6 +92,7 @@ This repository contains awesome resources to learn Data Structures and Algorith
 
 ## 🔎 Visualization
 - [AlgoMaster DSA Animations](https://algomaster.io/animations/dsa)
+- [SolveLogs](https://solvelogs.com/)
 - [VisuAlgo](https://visualgo.net/en)
 
 ---
