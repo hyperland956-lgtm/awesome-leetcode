@@ -92,6 +92,7 @@ This repository contains awesome resources to learn Data Structures and Algorith
 
 ## 🔎 Visualization
 - [AlgoMaster DSA Animations](https://algomaster.io/animations/dsa)
+- [Learn Blazingly Fast](https://learnblazinglyfast.tech/) - Interactive step-by-step visual simulations and exercises for 550+ DSA and computer science concepts
 - [VisuAlgo](https://visualgo.net/en)
 
 ---
