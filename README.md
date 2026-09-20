@@ -83,6 +83,9 @@ This repository contains awesome resources to learn Data Structures and Algorith
 - [Coursera - Algorithms, Part I](https://www.coursera.org/learn/algorithms-part1)
 - [Coursera - Algorithms, Part 2](https://www.coursera.org/learn/algorithms-part2)
 
+## Additional resources
+- [Github - DSA Handbook for Coding Interviews](https://github.com/TharunKumarReddyPolu/DSA-Handbook-for-Coding-Interviews) - A structured, open-source handbook for interview prep: complexity analysis, essential DSA patterns, and solved problems with explanations in Java, Python, and C++.
+
 ## 📚 Books
 - [Data Structures And Algorithms Made Easy](https://www.amazon.in/dp/B08CMLS7LZ)
 - [Cracking the Coding Interview](https://www.amazon.in/dp/0984782850)
