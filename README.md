@@ -14,6 +14,9 @@ This repository contains awesome resources to learn Data Structures and Algorith
 - [How to Start LeetCode](https://blog.algomaster.io/p/how-to-start-leetcode-in-2025)
 - [20 DSA Patterns](https://blog.algomaster.io/p/20-dsa-patterns)
 
+  ## 🧩 Coding Practice
+- [Forge Algorithm Lab](https://scaledojo.dev/forge) – Practice data structures and algorithms through hands-on coding challenges.
+
 ## 📌 Fundamental Concepts
 - [Algorithmic Complexity](https://algomaster.io/learn/dsa/big-o-introduction)
 - [Arrays](https://algomaster.io/learn/dsa/arrays-introduction)
